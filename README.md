@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 ### Hi, I'm Gilad Ben Shitrit
 
 **Global Marketing Lead** · Tel Aviv  
@@ -9,10 +9,10 @@ Building practical AI tools for job seekers and marketers
 
 <br/>
 
-![Lovable](https://img.shields.io/badge/Lovable-000000?style=flat-square&logo=data:image/svg%2bxml;base64,)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
-![Base44](https://img.shields.io/badge/Base44-1F2937?style=flat-square)
+![Lovable](https://img.shields.io/badge/Lovable-111827?style=flat-square)
+![Base44](https://img.shields.io/badge/Base44-374151?style=flat-square)
 ![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0668E1?style=flat-square&logo=meta&logoColor=white)
 
 </div>
